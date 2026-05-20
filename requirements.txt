@@ -1,0 +1,10 @@
+streamlit
+firebase-admin
+google-cloud-firestore
+yfinance
+pandas
+numpy
+plotly
+scikit-learn
+tensorflow
+requests
